@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Java programming l
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_Java.png)](https://dicer0.com/#skills)
+[![Java](http://dicer0.com/wp-content/uploads/2023/10/p_Java.png)](https://dicer0.com/#skills)
